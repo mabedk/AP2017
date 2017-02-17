@@ -1,5 +1,6 @@
 
 ![ScreenShot](https://github.com/mabedk/AP2017/blob/gh-pages/mini_ex2/screenshot%20of%20mini_ex2.png)
+<b>Run:</b> https://cdn.rawgit.com/mabedk/AP2017/gh-pages/mini_ex2/empty-example/index.html
 <center><h3>My Humble Programme And Reflections</h3></center>
 I wanted to create something that represented my reflections of what an error is. To me, an error is when in the midst of accomplishing something - a goal or a task - you fail. I think the effect of the error is satisfactory when you learn from it, perhaps even fail again and again before accomplishing the goal or task. Errors are means for developing a adequate outcome.
 
