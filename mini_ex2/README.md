@@ -13,6 +13,7 @@ The programme encourage you to click away the error - the error in this programm
 As for what essientially constitutes a programme I'd say programming. I'm sure my answer will develop throughout this semester, but as of right now this mini-exercise has opened my eyes for just how much coding-work is behind something as simple as my humble programme. I can't even imagine how much code is behind something like games, opperating systems, apps and even websites like Facebook and Google.
 
 <center><h3>Tim Baker And How He Changed My Understanding of Error</h3></center>
+I wrote the above reflection and account before reading the article <i>Error, The Unforeseen and The Emergent</i> by Tim Baker. After having read his account of errors and their potential, I think I should reconsider my relationship to errors and the frustration they create for me. Baker proclaims that errors are unavoidable and instead of proceeding to work against them, we should consider working with and embracing them. He argues that since errors mark the potential of the new and unforeseen, they hold great potential as well - by trying to work around them we work around possible qualities we wouldn't have discovered without the occuring of those errors. I definitely find this way of thinking interesting and I'm certain I'll consider this argument the next time I'm ready to punch a hole through my screen because of reoccuring errors in my code. 
 
 
 
