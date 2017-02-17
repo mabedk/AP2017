@@ -7,6 +7,8 @@ As I am yet to be a programmer-champion, I decided to keep my programme simple. 
 
 As for what essientially constitutes a programme I'd say programming. I'm sure my answer will develip throughout this semester, but as of right now this mini-exercise has opened my eyes for just how much coding-work is behind something as simple as my humble programme. I can't even imagine how much code is behind something like games, opperating systems, apps and even websites like Facebook and Google.
 
+<center><h3>Tim Baker and how he changed my understanding of error</h3></center>
+
 
 
 
