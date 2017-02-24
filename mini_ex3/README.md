@@ -13,4 +13,5 @@ When PLAN B succeeded I decided to return to PLAN A as it bothered me that I cou
 
 I wanted to make some preload animations that were entertaining to watch - I personally find that if the throbber or preload animations is boring I get impatient really quickly.
 
-
+<h3>How can programme reflect on cultural issues?</h3>
+I think that since the throbber somehow becomes a synonym to latency, we could perhaps achieve an understanding from the user of the device wherein the throbber appears through programming, by somehow allowing him or her to have a peek into the actual data. If the users were actually able to see, read and understand the data, the code or whatever runs the device, they would be be both more understanding but also more participating in the software culture they live in. 
