@@ -6,6 +6,6 @@
 
 Remember kids: You don’t necessarily have to drink alcohol to have a party, all you have to do is play the music and take a ride with the party bus! 
 
-The Party Bus demonstrates the notion of feedback as it continuously runs from one edge of the canvas to the other, and the changes happening when you press the sun.
+The Party Bus demonstrates the notion of feedback as it continuously runs from one edge of the canvas to the other - it loops over and over again, even when interrupted by the changes that happens when you press the sun. 
 
 *Note to self: Sound. Never use sound again.*
