@@ -5,7 +5,7 @@ var posY = [];
 var numOfThings = 30; //number of circles created
 
 function preload() {
-	myFont = loadFont('assets/Raleway-ExtraLight.ttf');
+	//myFont = loadFont('assets/Raleway-ExtraLight.ttf');
 }
 
 
@@ -30,7 +30,7 @@ for(var i=0; i < numOfThings; i++) {
 function draw() {
 
  textSize(40);
- textFont(myFont);
+ //textFont(myFont);
  noStroke();
  fill(0);
  text("this is circles.", width/2, height/2);
