@@ -1,5 +1,5 @@
 <h3>Mini Exercise 3</h3>
-<h4><b>Title:</b> Dog Peeing and Flowers
+<h4><b>Title(s):</b> Dog Peeing and Flowers
 
 Made by Maria Berthel
 
