@@ -1,3 +1,3 @@
 
-<center><h3>Mini Exercise 6</h3></center>
+<p align="center"><h3>Mini Exercise 6</h3></p>
 
