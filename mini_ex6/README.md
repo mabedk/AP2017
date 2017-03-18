@@ -15,5 +15,7 @@ Made By Maria Berthel
 
 4. When the circles' width is bigger than or equal to 2000 they get smaller and if the width is smaller than or equal to 2 they get bigger.
 
+<h4>How the programme expresses generativity</h4>
+
 
 
