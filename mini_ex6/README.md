@@ -19,6 +19,6 @@ The idea behind the programme is to challenge our understanding of fundamental t
 4. When the circles' width is bigger than or equal to 2000 they get smaller and if the width is smaller than or equal to 2 they get bigger.
 
 <h4>How the programme expresses generativity</h4>
-
+I believe my programme expresses the notion of generativity as it is a autonomous system, which generates something on its own due to the code enscribed to it. Also, I would argue that my programme also expresses an emergent behavior as something addtional is created each time a frame is run. 
 
 
