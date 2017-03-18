@@ -7,7 +7,7 @@ Made By Maria Berthel
 <b>Run:</b> https://rawgit.com/mabedk/AP2017/gh-pages/mini_ex6/mini-ex6-this%20is%20circles./index.html
 
 <h4>Programme agenda</h4>
-The idea behind the programme is to challenge our understanding of fundamental things like circles - a circle is not necessarily bound to the shape round, just because we're told in school that it is. The function 'ellipse' is called to create the circles and so the code generates a different shape than a human's basic understanding of what a circle is. 
+The idea behind the programme is to challenge our understanding of fundamental things like circles - a circle is not necessarily bound to the shape round, just because we're told in school that it is, at least not in the world of software. The function 'ellipse' is called to create the circles and so the code generates a different shape than a human's basic understanding of what a circle is. 
 
 <h4>Programme Rules</h4>
 1. The circles are created at a random location each time programme is run.
