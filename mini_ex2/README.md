@@ -1,5 +1,5 @@
 <h3>Mini Exercise 2</h3>
-<h4><b>Programme name:</b> Fixer-upper-Error</h4>
+<h4><b>Title:</b> Fixer-upper-Error</h4>
 Made by Maria Berthel
 
 ![ScreenShot](https://github.com/mabedk/AP2017/blob/gh-pages/mini_ex2/screenshot%20of%20mini_ex2.png)
