@@ -8,8 +8,11 @@ Made By Maria Berthel
 
 <h4>Programme Rules</h4>
 1. The circles are created at a random location each time programme is run.
+
 2. Every time the programme runs through draw, the circles' width and height gets bigger by 1.
+
 3. The circles' height starts at 20 but the windowHeight is then substracted - this is what makes the circles look different than actual circles when programme is run.
+
 4. When the circles' width is bigger than or equal to 2000 they get smaller and if the width is smaller than or equal to 2 they get bigger.
 
 
