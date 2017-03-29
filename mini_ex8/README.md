@@ -5,11 +5,11 @@ Made by Maria Berthel - with Daniel Shiffman's code.
 ![ScreenShot](https://github.com/mabedk/AP2017/blob/gh-pages/mini_ex8/Sk%C3%A6rmbillede%202017-03-29%20kl.%2016.32.52.png)
 ![ScreenShot](https://github.com/mabedk/AP2017/blob/gh-pages/mini_ex8/Sk%C3%A6rmbillede%202017-03-29%20kl.%2016.33.18.png)
 
-<b>Run</b> https://rawgit.com/mabedk/AP2017/gh-pages/mini_ex8/empty-example/index.html
+<b>Run</b> https://rawgit.com/mabedk/AP2017/gh-pages/mini_ex8/empty-example/index.html.
 
 <b>Selected Coding Challenge:</b> <a href="https://www.youtube.com/watch?v=rX5p-QRP6R4">Blobby</a>.
 
-<b>Flowchart:</b> <a href="http://fxbtpc.axshare.com/#g=1&p=home">Mini ex 8 flowchart</a>
+<b>Flowchart:</b> <a href="http://fxbtpc.axshare.com/#g=1&p=home">Mini ex 8 flowchart</a>.
 
 <h4>Programme agenda</h4>
 For this mini exercise I decided to work with the Blobby coding challenge by Daniel Shiffman. We were supposed to add a function/syntax to one of the challenges and I decided to add a show/hide function (even though that's not the actual syntax of the function that does just that - look at my flowchart for more detail) and change up the color palette.
