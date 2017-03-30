@@ -22,4 +22,6 @@ This leads me to the second difficulty - the flowchart. It was surprisingly diff
 <h4>What we may achieve through a flowchart</h4>
 First off, the flowchart is a simple yet extremely helpful tool to understand your own code - and others'! The comments in a code is rarely enough for me to understand the syntax or why the programmor decided to do as he or she did, but through a flowchart you achieve a organised break down and deeper understanding of a piece of code. Difficult pieces of code (such as a for loop) can be rephrased in a simple manner through visual representation, which isn't dependent on the math, logic and numbers that the code is tied to and therefore it's easier to both explain and comprehend the code.  
 
+But the flowchart isn't limited to visualise only code, more generally it visualises processes and makes it possible to clarify the ideal situation/reality of that process. 
+
 
