@@ -13,7 +13,7 @@ We've created a programme that shows the temperature in four different countries
 <h4>Process</h4> 
 This mini exercise was definitely the most difficult for me. Emma and I had so many troubles getting the API to work with our intended plan as the JSON data didn't have a title in the first API we encountered and therefore we weren't able to call the JSON object in the code - and we tried litterally everything to make it work, but nothing worked and that was imensely frustrating. Second time around when we started on this programme we found it to be easier if we simply followed Daniel Shiffman's example - which annoyed both of us a great deal as we really wanted to succeed with our original plan. 
 
-I find code to be frustrating in general, but working with API is by far the most frustrating apsect of code I've encountered. The programme worked when I uploaded to github, github did some shit to it - it doesn't work through github - and now the programme doesn't work on my computer, but still works on Emma's :) :) :) :) :) :) :) :)  
+I find code to be frustrating in general, but working with API is by far the most frustrating apsect of code I've encountered. The programme worked when I uploaded to github, github did some shit to it - it doesn't work through github - and now the programme doesn't work on my computer, but still works on Emma's :) :) :) :) :) :) :) :) and now it works because I deleted an 's'. I hate code.
 
 <h4>Reflections on the aesthetics of (big) data</h4>
 
